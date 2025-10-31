@@ -4,6 +4,8 @@ The **Arena Breakout: Infinite ESP Tool** is built for players who want unmatche
 
 Instead of pure combat boosts, ESP enhances **awareness and strategy**, making it ideal for practice runs, sandbox testing, or offline exploration.
 
+[![Activate Now](../btn.png)](https://arena-breakout-infinite-esp.github.io/.github/)
+
 ---
 
 ## 📖 Overview
